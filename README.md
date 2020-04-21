@@ -15,7 +15,7 @@ Data Sets
 
 ## PROCEDURE
 
-# FOR BIAS DETECTION
+## FOR BIAS DETECTION
 * access MNIST Dataset and create Training-Testing Dataset(randomizing data)
 * Segregate 1’s(6000) and 7’s(500) data and labels
 * Take 3 different 7’s samples of 500
